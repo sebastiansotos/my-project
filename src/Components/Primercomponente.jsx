@@ -47,7 +47,7 @@ export const Primercomponente = () => {
                 style={{ padding: '7px', width: '50%', marginRight: '5px' }}
             />
             <button onClick={anadirPersona} style={{ padding: '8px 14px' }}>
-                Añadir 
+                Añadir  lista
             </button>
 
             <p>Haz clic en una nota para eliminarla</p>
