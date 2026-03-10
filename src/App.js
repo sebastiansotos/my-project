@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sebas Web
+          Sebas Web tu sabe
         </p>
        <Primercomponente /> 
        <hr/>
