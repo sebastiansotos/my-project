@@ -16,7 +16,13 @@ document.querySelector('#app').innerHTML = `
 
       <a href="https://www.instagram.com/its_s3baxx_/" target="_blank">
       <button class="info-sebas">IG Sebas</button></a>
-    </div>
+
+
+    <a href="https://www.linkedin.com/in/sebastian-a880293b7/" target="_blank">
+      <button class="info-sebas">LinkedinSebas</button></a>
+    
+  </div>
+
 
     <section class="projects fade-in fade-4">
       <h3>Proyectos destacados</h3>
@@ -69,7 +75,8 @@ const FBSebasButtons = document.querySelectorAll('.info-sebas');
 const buttonLogos = {
   'FB Sebas': 'https://cdn.simpleicons.org/facebook/1877F2',
   'GitHub Sebas': 'https://cdn.simpleicons.org/github/FFFFFF',
-  'IG Sebas': 'https://cdn.simpleicons.org/instagram/E4405F'
+  'IG Sebas': 'https://cdn.simpleicons.org/instagram/E4405F',
+  'Linkedin Sebas': 'https://cdn.simpleicons.org/linkedin/0A66C2'
 };
 
 FBSebasButtons.forEach(button => {
